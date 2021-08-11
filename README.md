@@ -2,8 +2,9 @@
 
 A game about the Suid-Afrikaanse Grensoorlog (South African Border War). 
 
-Original repo: https://github.com/Thomas05t/Cringe
+Original repo: https://github.com/Thomas05t/Cringe.
 
-Credit to <a href=https://github.com/Thomas05t>@Thomas05t</a> for collecting the assets.
+Credit to <a href=https://github.com/Thomas05t>@Thomas05t</a> for creating and collecting the art, music and videos.
 
 
+[**Play Suid-Afrikaanse Grensoorlog**](https://rijkvp.nl/games/suid-afrikaanse_grensoorlog/)
